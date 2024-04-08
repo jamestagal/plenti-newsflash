@@ -1,0 +1,14 @@
+{
+	"build": "public",
+	"routes": {
+		"pages": ":filename",
+		"signin": "sign-in",
+		"blog": "blog/:filename"
+	},
+	"entrypoint_html": "global/html.svelte",
+	"entrypoint_js": ":fingerprint",
+	"baseurl": "/newsflash/",
+	"local": {
+		"port": 3000
+	}
+}

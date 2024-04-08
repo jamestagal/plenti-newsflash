@@ -1,0 +1,63 @@
+{
+	"components": [
+		{
+			"name": "featuredArticles",
+			"fields": {
+				"title": "Breaking news",
+				"headline01": "Apple announces a new partnership...",
+				"headline02": "Open AI announces GPT10 with Dall-E 6 Integration",
+				"headline03": "Tesla abandons electric powered vehicles...",
+				"headline04": "Google touted to merge with Microsoft...",
+				"headline05": "Plenti BTR engine rules the SSG market..."
+			}
+		},
+		{
+			"name": "quickRead",
+			"fields": {
+					"title": "FULL KITCHEN REMODEL"
+			}
+		},
+		{
+			"name": "olderPosts",
+			"fields": {
+				"subtitle": "WHO WE ARE",
+				"title": "Stitch Painting Services",
+				"description": [
+					{
+						"paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+					},
+					{
+						"paragraph": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+					}
+				]
+			}
+		},
+		{
+			"name": "popularTags",
+			"fields": {
+				"subtitle": "What We Do",
+				"title": "House Painting Contractors For Oak Harbor",
+				"description": [
+					{
+						"paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+					},
+					{
+						"paragraph": " Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+					}
+				]
+			}
+		},
+		{
+			"name": "newsletter",
+			"fields": {
+				"title": "PORTFOLIO",
+				"subtitle": "Our Gallery"
+			}
+		}
+	],
+	"meta": {
+		"title": "Code Stitch Starter",
+		"desc": "A template for the Build-Time Render Engine Plenti",
+		"keywords": "Plenti, Svelte, Go, SSG, JAMstack, Themes"
+	}
+}

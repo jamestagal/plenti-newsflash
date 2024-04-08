@@ -1,0 +1,41 @@
+{
+    "postImage": {
+        "url": "media/images/quick_read/quick_read_1.jpg",
+        "alt": "Sample article 01"
+    },
+    "title": "Sample article 01",
+    "publish": {
+        "date": "Dec 27th 2023"
+    },
+    "readTime": "5 Min read",
+    "description": [
+        {
+            "paragraph": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Debitis eius possimus hic eligendi distinctio rerum incidunt, esse quasi eum molestiae ducimus ipsam quae, aliquid ullam placeat dolorum nulla vero. Quam? Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sapiente repellat consequatur culpa, repudiandae aut dolores iusto. Rem natus soluta, dolores, ad deleniti, aut dolorem corrupti quasi amet unde delectus hic?"
+        },
+        {
+            "paragraph": " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Debitis eius possimus hic eligendi distinctio rerum incidunt, esse quasi eum molestiae ducimus ipsam quae, aliquid ullam placeat dolorum nulla vero. Quam? Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sapiente repellat consequatur culpa, repudiandae aut dolores iusto. Rem natus soluta, dolores, ad deleniti, aut dolorem corrupti quasi amet unde delectus hic?"
+        }
+    ],
+    "quote": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia voluptates, laboriosam voluptatum quos non consequuntur nesciunt necessitatibus tempora quod inventore corporis rem nihil itaque, at provident minus aliquam veritatis. Labore? ",
+    "author": {
+        "name": "John Doe",
+        "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eaque quis repellat rerum, possimus cumque dolor repellendus eligendi atque explicabo exercitationem id."
+    },
+    "socials": {
+        "instagram": ".",
+        "facebook": ".",
+        "x": "."
+    },
+    "category": {
+        "name": "Nature"
+    },
+    "tags": [
+        "Nature"
+    ],
+    "featured":  {
+        "main": false,
+        "trending": false,
+        "quickRead": false,
+        "backChannel": false
+    }
+}
